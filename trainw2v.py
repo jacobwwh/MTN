@@ -3,7 +3,6 @@ import os
 import os.path
 import pycparser
 from pycparser import c_parser
-from ast2struct import ast2list
 
 allast=[]
 
